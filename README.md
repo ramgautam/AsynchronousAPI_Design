@@ -1,5 +1,5 @@
 
- <img src="Asynchronous_API.png" alt="High Level Diagram" height="761px" width="848px"> 
+ <img src="Asynchronous_API.png" alt="Asynchrnous API Design Diagram" height="761px" width="848px"> 
 
 <p><b>Asynchronous/Synchronous: </b>In computer programs, asynchronous operation means that a process operates independently of other processes, whereas synchronous operation means that the process runs only as a result of some other process being completed or handing off operation.</p>
 
